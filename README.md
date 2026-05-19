@@ -13,4 +13,11 @@ The LFSR Folder contains the following :-
 2. "lfsr_tb.sv" - this file contains the testbench code of Linear Feedback Shift Register.
 
 The WRPG Folder contains the following :-
-
+1. "wrpg.sv" - this file contains the design code of Weighted Random Pattern Generator.
+2. "wrpg_tb.sv" - this file contains the testbench code of Weighted Random Pattern Generator.
+3. "Components" - This folder contains the following :-
+   1. "or_gate.sv" - this file contains the design of OR Gate.
+   2. "HA.sv" - this file contains the design of Half Adder.
+   3. "fa.sv" - this file contains the design of Full Adder.
+   4. "dff.sv" - this file contains the design of Data Flip Flop.
+   5. "dff_tb.sv" - this file contains the testbench of Data Flip Flop.
